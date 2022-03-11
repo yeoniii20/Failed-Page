@@ -194,3 +194,184 @@ a {
     left: 8%;
     bottom: 15%;
   }
+
+  .background2 .box-container .el-container2 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0,0,0,16%);
+  }
+  
+  .background2 .box-container .el-container2 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container2 .C {
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 30%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container2 .H {
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
+  
+  .background2 .box-container .el-container3 {
+    position: absolute;
+    top: 0px;
+    left: 525px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0,0,0,16%);
+  }
+  
+  .background2 .box-container .el-container3 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container3 .A {
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 23%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container3 .I {
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
+  
+  .background2 .box-container .el-container4 {
+    position: absolute;
+    bottom: 70px;
+    left: 525px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0,0,0,16%);
+  }
+  
+  .background2 .box-container .el-container4 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container4 .F {
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 23%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container4 .N {
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
+  
+  .background2 .box-container .el-container5 {
+    position: absolute;
+    right: 0px;
+    top: 70px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0,0,0,16%);
+  }
+  
+  .background2 .box-container .el-container5 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container5 .M {
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 25%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container5 .V {
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
+  
+  .background2 .box-container .el-container6 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0,0,0,16%);
+  }
+  
+  .background2 .box-container .el-container6 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container6 .S {
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 25%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container6 .T {
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
+  
