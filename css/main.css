@@ -112,3 +112,85 @@ a {
     display: flex;
     justify-content: flex-end;
   }  
+
+  .background2 {
+    position: relative;
+    width: 100vw;
+    height: 1443px;
+    background-color: #FFFCFC;
+  }
+  
+  .background2 .text-container {
+    position: absolute;
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    top: 8.7vh;
+    width: 680px;
+    height: 130px;
+  }
+  
+  .background2 .text1 {
+    position: absolute;
+    font-size: 45px;
+    color: #424647;
+  }
+  
+  .background2 .text1 span {
+    color: #ff17cc;
+  }
+  
+  .background2 .text2 {
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+    color: #8f8f8f;
+    left: 21.5px;
+    bottom: 0px;
+  }
+  
+  .background2 .box-container {
+    position: absolute;
+    width: 1500px;
+    height: 1000px;
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    top: 28%;
+  }
+  
+  .background2 .box-container .el-container1 {
+    position: absolute;
+    left: 0px;
+    top: 70px;
+    width: 30%;
+    height: 43%;
+    background: #FFFCFC;
+    box-shadow: 0px 3px 56px rgba(0, 0, 0, 16%);
+  }
+  
+  .background2 .box-container .el-container1 img {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    left: 37.5%;
+    top: 14%;
+  }
+  
+  .background2 .box-container .el-container1 .E{
+    position: absolute;
+    color: #000;
+    font-size: 35px;
+    left: 20%;
+    top: 45%;
+  }
+  
+  .background2 .box-container .el-container1 .Y{
+    position: absolute;
+    color: #747474;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    left: 8%;
+    bottom: 15%;
+  }
